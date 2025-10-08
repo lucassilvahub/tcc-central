@@ -1,4 +1,4 @@
-# Rede Central TCC, Links e Informações
+# Rede Central TCC grupo segmentação semântica, Links e Informações
 
 ## 📅 Cronograma do TCC  
 Você pode acompanhar o cronograma e progresso no Trello:  
