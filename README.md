@@ -1,3 +1,7 @@
+## 📅 Cronograma do TCC  
+Você pode acompanhar o cronograma e progresso no Trello:  
+**Quadro:** [Cronograma TCC Segmentação Semântica](https://trello.com/b/GmhqZtUd/cronograma-tcc-segmentacao-semantica)
+
 ## Versionamentos do TCC
 
 ### 0️⃣ V0 (LNCC) - U-Net  
@@ -12,9 +16,3 @@
 
 ### 2️⃣ V2 (FEI) - DeeplabV3Plus  
 **Repositório:** [https://github.com/Saidaoo/tcc-v2-DeeplabV3Plus](https://github.com/Saidaoo/tcc-v2-DeeplabV3Plus)
-
----
-
-## 📅 Cronograma do TCC  
-Você pode acompanhar o cronograma e progresso no Trello:  
-**Quadro:** [Cronograma TCC Segmentação Semântica](https://trello.com/b/GmhqZtUd/cronograma-tcc-segmentacao-semantica)
